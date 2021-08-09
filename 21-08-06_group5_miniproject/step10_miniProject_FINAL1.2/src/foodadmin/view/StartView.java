@@ -63,6 +63,9 @@ public class StartView {
 		System.out.println("\n*** 가장 많이 검색된 업체 정보입니다");
 		controller.MostSearched();
 		
+		//Git - Pull request Test
+		//테스트 문장 추가
+		
 	}
 
 }
